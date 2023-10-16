@@ -106,7 +106,7 @@ class kayfourhour:
 
     def get_command(self):
         runs = self.check_completions()
-        msg = f"time left: {self.find_oldest_run(runs)} hours. "
+        msg = f"Time left: {self.find_oldest_run(runs)} hours. Runs completed: {len(runs)}. "
         i = 1
         for run in runs:
             rta = runs[run]["rta"]
