@@ -35,7 +35,7 @@ paste it into 'YOURTOKEN'. apostrophes should be included.
 
 next, put your channel name into 'YOURCHANNEL' (apostrophes included again)
 
-you also have the option of changing the command name to whatever you want in (name="k4att")
+you also have the option of changing the command name to whatever you want in (name="k4att"). do NOT include the exclamation mark. it is already the default.
 
 ![image](https://github.com/shnenanigans/k4hrbot/assets/83895136/21d5f626-ccfd-40a4-8844-a3d3059c6524)
 
