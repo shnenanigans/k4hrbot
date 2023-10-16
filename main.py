@@ -62,7 +62,7 @@ class kayfourhour:
         seconds = rta // 1000
         milliseconds = rta % 1000
         minutes, seconds = divmod(seconds, 60)
-        formatted_time = f"{minutes:02d}:{seconds:02d}.{milliseconds:03d}"
+        formatted_time = f"{minutes:02d}:{seconds:02d}"
         return formatted_time
 
     def sec_to_hour(self, seconds):
