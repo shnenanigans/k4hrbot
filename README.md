@@ -27,6 +27,8 @@ type `py -m pip install -U twitchio` into command prompt.
 
 Now you have setup all the hard parts. all you need now is to make your account a twitch bot.
 
+download main.py from the github and put it in a folder
+
 now open main.py in a text or code editor (notepad is fine)
 
 generate your twitch token from https://twitchtokengenerator.com/
