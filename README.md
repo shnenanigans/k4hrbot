@@ -42,3 +42,5 @@ you also have the option of changing the command name to whatever you want in (n
 all you have to do now is run main.py. if double clicking it doesnt work, make a new file called run.txt and write `python main.py` into it. change the .txt to .bat to make it a batch file and double click it to run the bot.
 
 voila! should work 
+
+if you have problems dm me on discord @shnenanigans
