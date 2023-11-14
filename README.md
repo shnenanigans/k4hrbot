@@ -31,7 +31,7 @@ download main.py from the github and put it in a folder
 
 now open main.py in a text or code editor (notepad is fine)
 
-generate your twitch token from https://twitchtokengenerator.com/
+generate your twitch access token from https://twitchtokengenerator.com/
 
 paste it into 'YOURTOKEN'. apostrophes should be included.
 
